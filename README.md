@@ -12,7 +12,7 @@ Menu interativo no terminal
 Sistema simples e intuitivo
 
 <p align="center">
-  <img src="lin
+  <img src=https://github.com/matheusaribeirodev/Cadastro-de-Produtos.Py/blob/main/Sem%20t%C3%ADtulo.png
 </p>
 
 💻 Tecnologias utilizadas
